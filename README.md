@@ -1,16 +1,22 @@
-### Hi there 👋
+# Aditya Kulkarni 👋
 
-<!--
-**kuladi03/kuladi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Profile](https://github.com/YourUsername/YourUsername/raw/main/profile-animation.gif)
 
-Here are some ideas to get you started:
+I'm a passionate Computer Engineering student at MIT ADT University, Pune, with a strong interest in AI, ML, and software development. Here's a glimpse of my profile:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+### Programming
+- **Languages**: 
+  - Advance: C++, C
+  - Intermediate: Python
+  - Novice: Java, JavaScript
+![Programming Skills](https://github.com/YourUsername/YourUsername/raw/main/programming-skills.png)
+
+- **Tools**: Windows, Linux, GitHub
+![Tools](https://github.com/YourUsername/YourUsername/raw/main/tools.png)
+
+- **Framework & Library**: Scikit
+![Scikit](https://github.com/YourUsername/YourUsername/raw/main/scikit.png)
+
+- **Technologies**: CSS, HTML, MySQL, Flutter
+![Technologies](https://github.com/YourUsername/YourUsername/raw/main/technologies.png)
