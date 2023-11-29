@@ -19,4 +19,4 @@ I'm a passionate Computer Engineering student at MIT ADT University, Pune, with 
 ![Scikit](https://github.com/kuladi03/kuladi03/raw/main/scikit.png)
 
 - **Technologies**: CSS, HTML, MySQL, Flutter
-![Technologies](https://github.com/kuladi03/kuladi03/raw/main/technologies.mp4)
+![Technologies](https://github.com/kuladi03/kuladi03/raw/main/technologies.png)
