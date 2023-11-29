@@ -5,7 +5,7 @@
 I'm a passionate Computer Engineering student at MIT ADT University, Pune, with a strong interest in AI, ML, and software development.
 
 <!-- GIF -->
-![GitHub Profile](https://github.com/kuladi03/kuladi03/raw/main/profile-animation.gif)
+![GitHub Profile](https://github.com/kuladi03/kuladi03/raw/main/user-profile.gif)
 
 <!-- Education -->
 ## 🎓 Education
