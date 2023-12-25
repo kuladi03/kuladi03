@@ -5,6 +5,9 @@
   <a href="https://twitter.com/adikulkarni03" target="_blank">
     <img src="https://img.shields.io/twitter/follow/adikulkarni03?logo=twitter&style=for-the-badge" alt="Twitter Follow">
   </a>
+  <a href="https://linkedin.com/in/kuladi" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Connect">
+  </a>
 </p>
 
 ### About Me
