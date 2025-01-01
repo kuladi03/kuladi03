@@ -13,10 +13,10 @@
 ### About Me
 
 - 🔭 Currently working on [EduDrop Student DropOut Analysis](https://github.com/kuladi03/EduDrop-Student-DropOut-Analysis)
-- 🌱 Learning **FullStack Development**
+- 🌱 Learning **Machine Learning**
 - 🤝 Seeking help with [EduDrop Student DropOut Analysis](https://github.com/kuladi03/EduDrop-Student-DropOut-Analysis)
 - 💬 Ask me about **Data Structures & Algorithms, Software Development**
-- 📄 [My Experiences](https://mitadtu-my.sharepoint.com/:b:/g/personal/soef21btcs0133_cse_mitsoe_ac_in/ET-Cb0xfHGVPvD_o4KcPw3kBDK9v1IGNycr6Bb2dRjsYDA?e=NPTzH2)
+- 📄 [My Profile](https://kuladi03.github.io/portfolio/)
 
 ### Connect with Me
 
