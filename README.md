@@ -14,7 +14,6 @@
 
 - 🔭 Currently working on [EduDrop Student DropOut Analysis](https://github.com/kuladi03/EduDrop-Student-DropOut-Analysis)
 - 🌱 Learning **Machine Learning**
-- 🤝 Seeking help with [EduDrop Student DropOut Analysis](https://github.com/kuladi03/EduDrop-Student-DropOut-Analysis)
 - 💬 Ask me about **Data Structures & Algorithms, Software Development**
 - 📄 [My Profile](https://kuladi03.github.io/portfolio/)
 
