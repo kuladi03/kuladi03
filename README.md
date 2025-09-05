@@ -12,7 +12,7 @@
 
 ### About Me
 
-- 🔭 Currently working on [EduDrop Student DropOut Analysis](https://anvesha-frontend.onrender.com/)
+- 🔭 Currently working on [Halo](https://github.com/kuladi03/Halo)
 - 🌱 Learning **Machine Learning**
 - 💬 Ask me about **Data Structures & Algorithms, Software Development**
 - 📄 [My Profile](https://kuladi03.github.io/portfolio/)
