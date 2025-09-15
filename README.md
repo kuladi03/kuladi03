@@ -12,7 +12,7 @@
 
 ### About Me
 
-- 🔭 Currently working on [Halo](https://github.com/kuladi03/Halo)
+- 🔭 Currently working on [GEN AI in 120 Days]([https://github.com/kuladi03/Halo](https://github.com/kuladi03/Gen-AI-in-120-Days))
 - 🌱 Learning **Generative AI**
 - 💬 Ask me about **Data Structures & Algorithms, Software Development**
 - 📄 [My Profile](https://kuladi03.github.io/portfolio/)
